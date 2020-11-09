@@ -1,0 +1,26 @@
+{
+  "name": "socketio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aya-Akrabawi/socket.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aya-Akrabawi/socket.io/issues"
+  },
+  "homepage": "https://github.com/Aya-Akrabawi/socket.io#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.1",
+    "socket.io-client": "^3.0.1"
+  }
+}
